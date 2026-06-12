@@ -1,0 +1,12 @@
+[
+    {
+        "service": "Gmail",
+        "username": "carlos@gmail.com",
+        "password": "123456"
+    },
+    {
+        "service": "escolar",
+        "username": "camaleo14@gmail",
+        "password": "321"
+    }
+]
